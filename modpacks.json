@@ -1,0 +1,22 @@
+{
+  "version": 1773974405983,
+  "modpacks": [
+    {
+      "id": "off_1773974403889",
+      "name": "PERU",
+      "acc": "",
+      "ver": "1.20.1",
+      "loader": "Forge",
+      "forgeVer": "latest",
+      "ip": "",
+      "color": "#ff0000",
+      "icon": "📦",
+      "bgImg": "https://raw.githubusercontent.com/serverwicho/xray-launcher-data/main/images/bg_1773974394813.jpg",
+      "iconUrl": "https://raw.githubusercontent.com/serverwicho/xray-launcher-data/main/images/icon_1773974389096.png",
+      "sub": "OFICIAL",
+      "online": 0,
+      "mods": [],
+      "gameDir": "{INSTANCES}/off_peru"
+    }
+  ]
+}
